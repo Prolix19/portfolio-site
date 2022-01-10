@@ -1,7 +1,7 @@
 :root {
     --color-one: #000088;
     --color-two: #aabb00;
-    --color-three: #ffffff;
+    --color-three: #808080;
 }
 
 * {
@@ -10,3 +10,6 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: var(--color-three);
+}
