@@ -20,7 +20,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 ### Screenshot of Finished Website:
 
-![Picture of the Horiseon webpage](assets/images/site-screenshot.png)
+![Picture of the Horiseon webpage](assets/images/site-screenshot.jpg)
 
 ### For Further Details:
 
