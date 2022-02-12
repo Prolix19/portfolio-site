@@ -2,6 +2,8 @@
     --color-one: #000088;
     --color-two: #aabb00;
     --color-three: #808080;
+    --color-four: #ffffff;
+    --color-five: #DDDDDD;
 }
 
 * {
@@ -11,5 +13,5 @@
 }
 
 body {
-    background-color: var(--color-three);
+    background-color: var(--color-five);
 }
